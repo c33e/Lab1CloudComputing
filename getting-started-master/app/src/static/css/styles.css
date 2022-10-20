@@ -5,17 +5,17 @@ body {
 }
 
 .item {
-    background-color: #F5BCF9;
+    background-color: #FCADEA;
     padding: 15px;
     margin-bottom: 15px;
     border: transparent;
     border-radius: 5px;
-    box-shadow: 0 0 1em #BE62C5;
+    box-shadow: 0 0 1em #E483CD;
     transition: all .2s ease-in-out;
 }
 
 .item:hover {
-    box-shadow: 0 0 1em #aaa;
+    box-shadow: 0 0 1em #E483CD;
 }
 
 .item.completed {
