@@ -48,6 +48,7 @@ function TodoListCard() {
     );
 
     if (items === null) return 'Loading...';
+    //read only
 
     return (
         <React.Fragment>
